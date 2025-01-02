@@ -19,4 +19,4 @@ The dataset is clean and ready to use for forecasting experiments and other anal
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/demand-categorisation-dataset.git
+   git clone https://github.com/regor-unimore/Demand-Categorisation-for-Improved-Forecasting-in-Perishable-Food-Supply-Chains.git
